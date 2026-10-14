@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "releaseDate": "2026-10-14",
+  "downloadUrl": "https://github.com/Vandtd1980/VDTools-Releases/releases/latest",
+  "changelog": [
+    "Online Version Management & Update Checker via GitHub",
+    "Integrated Check for Updates in About dialog and automatic background check",
+    "Enhanced multi-Revit support (2023 - 2027)"
+  ],
+  "minRevitVersion": "2023",
+  "mandatory": false
+}
